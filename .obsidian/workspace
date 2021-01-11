@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "96146c96d4031d86",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b80693ad6b95333",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "身心修炼/高科跑步训练.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8936bf69b6952d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9827738fc12a0615",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5868e3f43aac28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bb6efac06ac90d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#时间",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7699f262b0682e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fc606d688590bd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46fa056b3ca818a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f35883498336ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "身心修炼/高科跑步训练.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "940ef416e6b90d1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32df479587dbc76d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "身心修炼/高科跑步训练.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "身心修炼/高科跑步训练.md",
+    "艺术哲学/视觉艺术/目光的追问(观物).md",
+    "艺术哲学/视觉艺术/目居于物(观物).md",
+    "音乐/乐之本事.md",
+    "Untitled.md",
+    "哲学/时间哲学/时间观念史导论[海德格尔].md",
+    "佛学/现代作品/华严学哲学.md",
+    "生物科学/From Nerve net to nerve ring, nerve cord and nerve brain -- evolution of the nervous system.md",
+    "数学/逻辑学/数理逻辑十二讲.md",
+    "佛学/现代作品/Huayan Buddhism-Stanford Encyclopedia of Philosophy.md"
+  ]
+}
