@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "96146c96d4031d86",
+    "type": "split",
+    "children": [
+      {
+        "id": "018f0f7e4347211c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "哲学/时间哲学/时间观念史导论[海德格尔].md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8936bf69b6952d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9827738fc12a0615",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5868e3f43aac28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bb6efac06ac90d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#信息量准则",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7699f262b0682e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289
+  },
+  "right": {
+    "id": "6fc606d688590bd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46fa056b3ca818a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f35883498336ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "哲学/时间哲学/时间观念史导论[海德格尔].md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "940ef416e6b90d1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32df479587dbc76d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "哲学/时间哲学/时间观念史导论[海德格尔].md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 609
+  },
+  "lastOpenFiles": [
+    "哲学/时间哲学/时间观念史导论[海德格尔].md",
+    "心理学/精神分析/荣格/精神分析与灵魂治疗.md",
+    "身心修炼/高科跑步训练.md",
+    "心理学/精神分析/荣格/Symbols of Transformation.md",
+    "佛学/视频/阿含经讲要(如源).md",
+    "佛学/论/解脱道论.md",
+    "数据科学/统计学/贝叶斯方法.md",
+    "数据科学/统计学/Python贝叶斯分析.md",
+    "数据科学/统计学/试验设计与分析.md",
+    "数学/逻辑学/数理逻辑十二讲.md"
+  ]
+}
