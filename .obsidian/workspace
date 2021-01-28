@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c1f8d2d99b6954",
+        "id": "3fdc6858eabebac6",
         "type": "leaf",
         "active": true,
         "state": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#大乘佛学",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -54,12 +54,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 372
+    "width": 118
   },
   "right": {
     "id": "6fc606d688590bd2",
@@ -102,24 +101,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 643,
+    "width": 330,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "心理学/精神分析/荣格/精神分析与灵魂治疗.md",
-    "佛学/视频/阿含经讲要(如源).md",
-    "音乐/乐之本事.md",
-    "佛学/经/维摩诘经.md",
-    "数据科学/统计学/Python贝叶斯分析.md",
-    "心理学/梦的新解.md",
-    "数据科学/统计学/试验设计与分析.md",
-    "身心修炼/高科跑步训练.md",
-    "2021-01-14.md",
-    "README.md"
+    "艺术哲学/影像/VideoPhilosphy.md",
+    "佛学/现代作品/唯识要论.md",
+    "艺术哲学/影像/Untitled.md",
+    "佛学/现代作品/Untitled.md",
+    "思考残篇/Untitled.md",
+    "哲学/时间哲学/时间的味道.md",
+    "哲学/时间哲学/Philosophy of Time Time before Times.md",
+    "哲学/时间哲学/The Sense of Time(Viera).md",
+    "哲学/时间哲学/Untitled.md",
+    "美食/茶/茶的真实历史.md"
   ]
 }

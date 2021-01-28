@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "哲学/时间哲学/时间观念史导论[海德格尔].md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#信息量准则",
+                "query": "tag:#Metropolis-Hasting",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -61,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "6fc606d688590bd2",
@@ -77,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学/时间哲学/时间观念史导论[海德格尔].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,28 +99,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "哲学/时间哲学/时间观念史导论[海德格尔].md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 609
+    "width": 330,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "哲学/时间哲学/时间观念史导论[海德格尔].md",
-    "心理学/精神分析/荣格/精神分析与灵魂治疗.md",
-    "身心修炼/高科跑步训练.md",
-    "心理学/精神分析/荣格/Symbols of Transformation.md",
-    "佛学/视频/阿含经讲要(如源).md",
-    "佛学/论/解脱道论.md",
-    "数据科学/统计学/贝叶斯方法.md",
-    "数据科学/统计学/Python贝叶斯分析.md",
-    "数据科学/统计学/试验设计与分析.md",
-    "数学/逻辑学/数理逻辑十二讲.md"
+    "哲学/时间哲学/Philosophy of Time Time before Times.md",
+    "游戏/家用游戏机简史.assets/家用游戏机史.png",
+    "README.md",
+    "身心平衡/中医/黄帝内经(南京中医药大学笔记).md",
+    "身心平衡/中医/Untitled.md",
+    "美食/茶/茶与宋代社会生活.md",
+    "数据科学/统计学/贝叶斯/Python贝叶斯分析.md",
+    "文学/纳博科夫/艾达或爱欲.md",
+    "文学/博尔赫斯/小径分叉的花园.md",
+    "哲学/美国哲学/皮尔士/皮尔士论符号.md"
   ]
 }

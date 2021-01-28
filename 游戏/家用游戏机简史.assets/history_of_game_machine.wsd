@@ -1,0 +1,116 @@
+@startuml 家用游戏机史
+title 家用游戏机史
+
+<style>
+stateDiagram {
+  BackgroundColor Peru
+  LineColor Gray
+  FontName Impact
+  StateFontColor White
+  arrow {
+    FontSize 13
+    LineColor Gray
+  }
+}
+</style>
+
+state "图注" as diagram {
+    state JAPAN {
+        state Nintendo #Crimson
+        state SEGA #Cyan
+        state SNK #Tomato
+        state 3DO #DimGray
+        state Sony #deepskyblue
+        state Husdon #Gold
+    }
+    state USA {
+        state "Atari" as ATARICompany #Gray
+        state Microsoft #LimeGreen
+    }
+    
+    
+}
+
+state "前Famicon时代(1977-1983)" as PreFamicon {
+    state Atari #Gray
+    state "Atari VSC" as AtariVSC
+    Atari --> AtariVSC #Gray
+}
+
+state "Famicom世代(1983-1988)" as FamicomAge {
+    state Famicom #Crimson
+    state "SAGA Mark III" as SegaMark3 #Cyan
+    state "Family BASIC" as FamilyBasic #Crimson
+    state "Disk System" as DiskSystem #Crimson
+    Famicom --right--> SegaMark3
+    Famicom --> FamilyBasic
+    FamilyBasic --> DiskSystem 
+}
+
+state "后Famicom世代(1987-1992)" as PostFamicom {
+    state "Game Boy" as GameBoy #Crimson
+    state "Super Famicom" as SuperFamicom #Crimson
+    state "Mega Drive" as MegaDrive #Cyan
+    state "PC Engine" as PCEngine #Gold
+}
+
+state "CD格式大战(1989-1994)" as CDBattle {
+    state "CD-ROM" as CDROM #Gold
+    state "MEGA-CD" as MEGACD #Cyan
+    state "PlayStation计划" as PlayStationCD #deepskyblue
+}
+
+state "3D时代(1994-1999)" as 3DAge {
+    state PlayStation #deepskyblue
+    state "Sega Saturn" as SegaSaturn #Cyan
+    state NINTENDO64 #Crimson
+    state "Virtual Boy" as VirtualBoy #Crimson
+    VirtualBoy : VR产品
+    VirtualBoy : 结果失败
+
+    state "3DO REAL" as 3DOReal #DimGray
+    state "PC-FX" as PCFX #Gold
+}
+
+state "世嘉最后的挑战(1999-2004)" as Battle4 {
+    state "Neo Geo Pocket" as NeoGeoPocket #LightSkyBlue
+    NeoGeoPocket : 掌机
+
+    state WonderSwan #Tomato
+    WonderSwan : 掌机
+
+    state "PlayStation 2" as PlayStation2 #deepskyblue
+    state Dreamcast #Cyan
+    state XBox #LimeGreen
+    state "Nintendo Game Cube" as NintendoGameCube #Crimson
+}
+
+state "任天堂的挑战(2005-2012)" as Battle5 {
+    state PSP #deepskyblue
+    state "Playstation 3" as PlayStation3 #deepskyblue
+    state "Nintendo DS" as NintendoDS #Crimson
+    state "XBOX 360" as XBox360 #LimeGreen
+    state Wii #Crimson
+}
+
+AtariVSC --down[dotted]--> Famicom
+DiskSystem --down--> GameBoy
+DiskSystem --down--> SuperFamicom
+SegaMark3 --down--> MegaDrive
+MegaDrive --down--> MEGACD
+PCEngine --down--> CDROM
+SuperFamicom --down--> PlayStationCD : "与SONY合作"
+PlayStationCD --down[dashed]--> PlayStation
+MEGACD --down--> SegaSaturn
+SuperFamicom --down--> NINTENDO64
+NINTENDO64 -left-> VirtualBoy
+CDROM --down--> PCFX
+PlayStation --down--> PlayStation2
+SegaSaturn --down--> Dreamcast
+NINTENDO64 --down--> NintendoGameCube
+PlayStation2 --> PSP
+PlayStation2 --down--> PlayStation3
+GameBoy --down[dashed]--> NintendoDS
+XBox --down--> XBox360
+NintendoGameCube --down--> Wii
+@enduml
