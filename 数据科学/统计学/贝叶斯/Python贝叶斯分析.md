@@ -171,6 +171,8 @@ with Model() as model:
     trace = sample(2000)
 ```
 
+
+
 ### 逻辑回归
 
 #### 基本假设
@@ -357,3 +359,4 @@ pm.traceplot(chain, varnames)
 pm.df_summary(chain, varnames).round(4)
 ```
 
+2

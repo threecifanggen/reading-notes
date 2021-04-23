@@ -2,6 +2,8 @@
 
 ## Reference
 
+标签: #心灵哲学; #无我; #禅定; #冥想
+
 Metzinger, Thomas. "M-Autonomy." Journal of Consciousness Studies 22, no. 11-12 (2015): 270-302.
 
 ## 结构
@@ -51,6 +53,8 @@ TSL：对于主体S来说是一种全局的意识状态，我们称他为「全�
 
 #### 反驳身体属有感
 
+标签: #ODE; #身体妄想症
+
 1. 身体妄想症（somatoparaphrenia）和人格解离（depersonalization）患者：体验到身体不是指自己的
 2. OBE(out-of-body experiences)：灵魂出窍感（59%的vestibular 患者有OBE）
 
@@ -73,6 +77,8 @@ TSL：对于主体S来说是一种全局的意识状态，我们称他为「全�
 神游时，是没有自我控制精神的感觉的
 
 #### PSL的种类
+
+> 缩写顺序就是上面介绍「无我」种类的顺序
 
 |                          情况 |    CSC     |    SSC     |    SBO     |    SBA     |    SMO     |    SMA     |
 | ----------------------------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -102,6 +108,8 @@ drug-induced ego dissolution (DIED)： 莫斯卡灵药(mescaline)、LSD、psiloc
 主要有大量证实的是DMT(5-MeO-DMT)
 
 #### 冥想
+
+标签： #三么地
 
 Samādhi(三么地、奢摩他)
 

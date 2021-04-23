@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3fdc6858eabebac6",
+        "id": "e104b16a19530cee",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "哲学/两希哲学/自然与快乐.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ACE",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -58,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 118
+    "width": 296
   },
   "right": {
     "id": "6fc606d688590bd2",
@@ -74,9 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "哲学/两希哲学/自然与快乐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "哲学/两希哲学/自然与快乐.md"
+              }
             }
           }
         ]
@@ -108,16 +115,17 @@
     "width": 330,
     "collapsed": true
   },
+  "active": "e104b16a19530cee",
   "lastOpenFiles": [
-    "艺术哲学/影像/VideoPhilosphy.md",
-    "佛学/现代作品/唯识要论.md",
-    "艺术哲学/影像/Untitled.md",
-    "佛学/现代作品/Untitled.md",
-    "思考残篇/Untitled.md",
-    "哲学/时间哲学/时间的味道.md",
-    "哲学/时间哲学/Philosophy of Time Time before Times.md",
-    "哲学/时间哲学/The Sense of Time(Viera).md",
-    "哲学/时间哲学/Untitled.md",
-    "美食/茶/茶的真实历史.md"
+    "哲学/两希哲学/自然与快乐.md",
+    "哲学/两希哲学/柏拉图/Untitled.md",
+    "身心平衡/中医/中医经典/倪海厦伤寒.md",
+    "数据科学/特征工程/Feature Engineering and Selection.md",
+    "身心平衡/物理治疗/拉伸/Untitled.md",
+    "身心平衡/物理治疗/肌筋膜激痛点自我照顾手册.md",
+    "音乐/流行乐/摇滚乐/Led Zeppelin/Untitled.md",
+    "宗教/布拉瓦茨基/Untitled.md",
+    "宗教/基督教/基督教史/从基督教的起源到卡尔西顿会议.md",
+    "宗教/基督教/基督教史/基督教思想史.md"
   ]
 }

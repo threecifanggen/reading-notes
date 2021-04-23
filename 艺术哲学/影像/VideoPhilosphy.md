@@ -10,7 +10,7 @@
 
 **标签**: #影像; #影像哲学; #Lazzarato; #视频哲学
 
-**引用**: Lazzarato, Maurizio. Videophilosophy: The Perception of Time in Post-Fordism. Columbia University Press, 2019.
+**引用**: Lazzarato, Maurizio. *Videophilosophy: The Perception of Time in Post-Fordism*. Columbia University Press, 2019.
 
 ### 概述
 
