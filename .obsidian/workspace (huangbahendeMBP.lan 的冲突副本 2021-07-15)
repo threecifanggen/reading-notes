@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "96146c96d4031d86",
+    "type": "split",
+    "children": [
+      {
+        "id": "e104b16a19530cee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8936bf69b6952d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9827738fc12a0615",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5868e3f43aac28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bb6efac06ac90d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7699f262b0682e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "right": {
+    "id": "6fc606d688590bd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46fa056b3ca818a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f35883498336ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "940ef416e6b90d1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32df479587dbc76d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330,
+    "collapsed": true
+  },
+  "active": "e104b16a19530cee",
+  "lastOpenFiles": [
+    "README.md",
+    "哲学/生死论/跑马灯/Untitled.md",
+    "音乐/中国流行音乐简史.md",
+    "宗教/佛学/课程/Buddhism and Modern Psychology.md",
+    "宗教/佛学/课程/Untitled.md",
+    "哲学/生死论/回光返照/Untitled.md",
+    "哲学/生死论/Congruence Between Near-Death and Mystical Experience.md",
+    "哲学/生死论/回光返照/Terminal Lucidity A Review and a Case Collection.md",
+    "Pasted image 20210423170508.png",
+    "哲学/生死论/回光返照/国内非学术刊物报道.md"
+  ]
+}

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e104b16a19530cee",
+        "id": "e4aa2c6a6bc2c176",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哲学/两希哲学/自然与快乐.md",
-            "mode": "source"
+            "file": "思考残篇/王家卫电影与佛学.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ACE",
+                "query": "身体",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -50,6 +50,14 @@
           },
           {
             "id": "d7699f262b0682e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a63d00775064be4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学/两希哲学/自然与快乐.md",
+                "file": "思考残篇/王家卫电影与佛学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +99,22 @@
             "id": "940ef416e6b90d1b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "32df479587dbc76d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f7a3da714c18578",
+            "type": "leaf",
+            "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
@@ -99,12 +123,12 @@
             }
           },
           {
-            "id": "32df479587dbc76d",
+            "id": "bc80757d9a2e5115",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/两希哲学/自然与快乐.md"
+                "file": "思考残篇/王家卫电影与佛学.md"
               }
             }
           }
@@ -115,17 +139,17 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "e104b16a19530cee",
+  "active": "e4aa2c6a6bc2c176",
   "lastOpenFiles": [
-    "哲学/两希哲学/自然与快乐.md",
-    "哲学/两希哲学/柏拉图/Untitled.md",
-    "身心平衡/中医/中医经典/倪海厦伤寒.md",
-    "数据科学/特征工程/Feature Engineering and Selection.md",
-    "身心平衡/物理治疗/拉伸/Untitled.md",
-    "身心平衡/物理治疗/肌筋膜激痛点自我照顾手册.md",
-    "音乐/流行乐/摇滚乐/Led Zeppelin/Untitled.md",
-    "宗教/布拉瓦茨基/Untitled.md",
-    "宗教/基督教/基督教史/从基督教的起源到卡尔西顿会议.md",
-    "宗教/基督教/基督教史/基督教思想史.md"
+    "思考残篇/王家卫电影与佛学.md",
+    "思考残篇/信息与机器学习.md",
+    "思考残篇/情绪与肌肉.md",
+    "思考残篇/不可感知但存在的事物.md",
+    "思考残篇/爱、因缘、原子论.md",
+    "思考残篇/马利克近期电影.md",
+    "思考残篇/埋点的关键点.md",
+    "思考残篇/皮肤感受与内脏感受与神经系统.md",
+    "哲学/两希哲学/柏拉图/书简七.md",
+    "哲学/两希哲学/柏拉图/Untitled.md"
   ]
 }
