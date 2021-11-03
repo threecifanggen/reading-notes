@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "思考残篇/王家卫电影与佛学.md",
-            "mode": "preview"
+            "file": "哲学/两希哲学/柏拉图/书简七.md",
+            "mode": "source"
           }
         }
       }
@@ -49,14 +49,6 @@
             }
           },
           {
-            "id": "d7699f262b0682e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7a63d00775064be4",
             "type": "leaf",
             "state": {
@@ -84,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思考残篇/王家卫电影与佛学.md",
+                "file": "哲学/两希哲学/柏拉图/书简七.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,22 +85,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "940ef416e6b90d1b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "32df479587dbc76d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -128,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考残篇/王家卫电影与佛学.md"
+                "file": "哲学/两希哲学/柏拉图/书简七.md"
               }
             }
           }
@@ -141,15 +117,15 @@
   },
   "active": "e4aa2c6a6bc2c176",
   "lastOpenFiles": [
-    "思考残篇/王家卫电影与佛学.md",
-    "思考残篇/信息与机器学习.md",
-    "思考残篇/情绪与肌肉.md",
-    "思考残篇/不可感知但存在的事物.md",
-    "思考残篇/爱、因缘、原子论.md",
-    "思考残篇/马利克近期电影.md",
-    "思考残篇/埋点的关键点.md",
-    "思考残篇/皮肤感受与内脏感受与神经系统.md",
     "哲学/两希哲学/柏拉图/书简七.md",
-    "哲学/两希哲学/柏拉图/Untitled.md"
+    "哲学/两希哲学/柏拉图/Inspiration and Mimēsis in Plato.md",
+    "哲学/两希哲学/柏拉图/落幕后的悲剧.md",
+    "哲学/两希哲学/柏拉图/The Symposium.md",
+    "哲学/两希哲学/柏拉图/蒂迈欧篇.md",
+    "哲学/中国哲学/先秦/老庄/陈鼓应《庄子》.md",
+    "哲学/中国哲学/先秦/老庄/Untitled.md",
+    "哲学/两希哲学/亚里士多德/Untitled.md",
+    "思考残篇/王家卫电影与佛学.md",
+    "思考残篇/信息与机器学习.md"
   ]
 }
